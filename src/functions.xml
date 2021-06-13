@@ -1,0 +1,19 @@
+<d:chapter version="5.0" xmlns:d="http://docbook.org/ns/docbook"
+           xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <?xml-stylesheet href="../css/style.css" type="text/css"?>
+  <?dbhtml filename="trigonometrical-functions-of-angles/index.html" ?>
+  <d:title>Trigonometrical Functions of Angles</d:title>
+  <d:sect1>
+    <d:title>Trigonometrical Functions for Acute Angles</d:title>
+    <d:para>
+      <!--d:figure>
+          <d:mediaobject>
+          <d:imageobject>
+            <d:imagedata fileref="../images/1_1_rays.png" align="center" />
+          </d:imageobject>
+          </d:mediaobject>
+          </d:figure-->
+    </d:para>
+  </d:sect1>
+</d:chapter>
