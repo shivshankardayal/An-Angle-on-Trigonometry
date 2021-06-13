@@ -226,7 +226,7 @@
         <d:para>
           If measure of an angle if D degrees, G grades and C radians then upon elementary manipulation we find that
           <math
-              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>D</mi><mn>180</mn></mfrac><mo>=</mo><mfrac><mi>G</mi><mn>200</mn></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>&#x3C0;</mi></mfrac></math>
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>D</mi><mn>180</mn></mfrac><mo>=</mo><mfrac><mi>G</mi><mn>200</mn></mfrac><mo>=</mo><mfrac><mi>C</mi><mi>&#x3C0;</mi></mfrac></math>
         </d:para>
       </d:sect3>
       <d:sect3>

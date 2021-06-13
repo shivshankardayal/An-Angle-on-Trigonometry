@@ -4,7 +4,7 @@ html: src/*.xml html.xsl Makefile
 #	perl -pi -e "s/\.pdf\"/\.png\"/g;" src/*.xml
 #	find . -name "*.html" | xargs perl -pi -e "s/<html>/<!DOCTYPE html>/g;"
 #	find . -name "*.html" | xargs perl -pi -e "s/<meta/<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta/g;"
-	cp -r images build/
+	#cp -r images build/
 	./domp.py
 	cp -r build/* /var/www/trigonometry
 	cp -r images/*.png /var/www/trigonometry/images/

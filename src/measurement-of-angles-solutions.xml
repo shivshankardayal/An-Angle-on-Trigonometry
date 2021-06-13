@@ -30,5 +30,49 @@
         Thus, angle in centisimal measure is <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>70</mn><mi>g</mi></msup><msup><mn>27</mn><mo>'</mo></msup><msup><mn>50</mn><mo>''</mo></msup></math>
       </d:para>
     </d:listitem>
+    <d:listitem>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>10</mn><mo>''</mo></msup><mo>=</mo><mfenced><mfrac><mn>10</mn><mrow><mn>60</mn><mo>&#xD7;</mo><mn>60</mn></mrow></mfrac></mfenced><mo>&#xB0;</mo></math>,
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>20</mn><mo>'</mo></msup><mo>=</mo><mfenced><mfrac><mn>20</mn><mn>60</mn></mfrac></mfenced><mo>&#xB0;</mo></math>,
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>45</mn><mo>&#xB0;</mo><msup><mn>20</mn><mo>'</mo></msup><msup><mn>10</mn><mo>''</mo></msup><mo>=</mo><mfenced><mrow><mn>45</mn><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>360</mn></mfrac></mrow></mfenced><mo>&#xB0;</mo><mo>=</mo><mfrac><mn>16321</mn><mn>360</mn></mfrac></math>
+      </d:informalequation>
+      <d:informalequation>
+        Using the formula <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>D</mi><mn>180</mn></mfrac><mo>=</mo><mfrac><mi>G</mi><mn>200</mn></mfrac><mo>=</mo><mfrac><mi>C</mi><mi>&#x3C0;</mi></mfrac></math>
+      </d:informalequation>
+      <d:orderedlist>
+        <d:listitem>
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>16321</mn><mn>360</mn></mfrac></mfenced><mo>&#xB0;</mo><mo>=</mo><mfrac><mn>16321</mn><mn>360</mn></mfrac><mo>.</mo><mfrac><mn>10</mn><mn>9</mn></mfrac><mo>=</mo><msup><mfenced><mfrac><mn>16321</mn><mn>324</mn></mfrac></mfenced><mi>g</mi></msup></math>
+          </d:informalequation>
+          <d:informalequation>
+            <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#x21D2;</mo><mn>50</mn><mo>.</mo><msup><mn>3734</mn><mi>g</mi></msup><mo>=</mo><msup><mn>50</mn><mi>g</mi></msup><msup><mn>37</mn><mo>'</mo></msup><msup><mn>34</mn><mo>''</mo></msup></math>
+          </d:informalequation>
+        </d:listitem>
+        <d:listitem>
+          <d:informalequation>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>16321</mn><mn>360</mn></mfrac></mfenced><mo>&#xB0;</mo><mo>=</mo><mfrac><mn>16321</mn><mn>360</mn></mfrac><mo>.</mo><mfrac><mi>&#x3C0;</mi><mn>170</mn></mfrac><mo>=</mo><mo>.</mo><mn>79</mn></math> radian.
+          </d:informalequation>
+        </d:listitem>
+      </d:orderedlist>
+    </d:listitem>
+    <d:listitem>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>94</mn><mi>g</mi></msup><msup><mn>23</mn><mo>'</mo></msup><msup><mn>27</mn><mo>''</mo></msup><mo>=</mo><mfenced><mfrac><mpadded lspace="+2px"><mn>94</mn><mo>.</mo><mn>2327</mn></mpadded><mn>100</mn></mfrac></mfenced><mo>.</mo><msup><mn>90</mn><mo>&#xB0;</mo></msup><mo>=</mo><mn>84</mn><mo>.</mo><msup><mn>8483</mn><mo>&#xB0;</mo></msup></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>84</mn><mo>.</mo><msup><mn>8483</mn><mo>&#xB0;</mo></msup><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><msup><mn>84</mn><mo>&#xB0;</mo></msup><mo>(</mo><mo>.</mo><mn>8484</mn><mo>&#xD7;</mo><mn>60</mn><msup><mo>)</mo><mo>'</mo></msup><mo>=</mo><msup><mn>84</mn><mo>&#xB0;</mo></msup><mn>48</mn><mo>.</mo><msup><mn>8898</mn><mo>'</mo></msup><mo>=</mo><msup><mn>84</mn><mo>&#xB0;</mo></msup><msup><mn>48</mn><mo>'</mo></msup><mo>(</mo><mo>.</mo><mn>8898</mn><mo>&#xD7;</mo><mn>60</mn><msup><mo>)</mo><mo>''</mo></msup><msup><mn>84</mn><mo>&#xB0;</mo></msup><mo>=</mo><msup><mn>48</mn><mo>'</mo></msup><mn>53</mn><mo>.</mo><msup><mn>388</mn><mo>''</mo></msup></math>
+      </d:informalequation>
+    </d:listitem>
+    <d:listitem>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><msup><mn>2</mn><mi>c</mi></msup><mo>=</mo><mn>1</mn><mo>.</mo><mn>2</mn><mo>&#xD7;</mo><mfrac><mn>180</mn><mi>&#x3C0;</mi></mfrac><mo>=</mo><mn>68</mn><mo>.</mo><msup><mn>7272</mn><mo>&#xB0;</mo></msup></math>
+      </d:informalequation>
+      <d:informalequation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>68</mn><mo>.</mo><msup><mn>7272</mn><mo>&#xB0;</mo></msup><mo>=</mo><mn>68</mn><mo>&#xB0;</mo><mo>(</mo><mo>.</mo><mn>7272</mn><mo>&#xD7;</mo><mn>60</mn><msup><mo>)</mo><mo>'</mo></msup><mo>=</mo><mn>68</mn><mo>&#xB0;</mo><mo>(</mo><mn>43</mn><mo>.</mo><mn>63</mn><msup><mo>)</mo><mo>'</mo></msup><mo>=</mo><mn>68</mn><mo>&#xB0;</mo><msup><mn>43</mn><mo>'</mo></msup><mn>37</mn><mo>.</mo><msup><mn>8</mn><mo>''</mo></msup></math>
+      </d:informalequation>
+    </d:listitem>
   </d:orderedlist>
 </d:chapter>
