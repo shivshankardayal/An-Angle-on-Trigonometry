@@ -2,20 +2,20 @@
            xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
            xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <?xml-stylesheet href="../css/style.css" type="text/css"?>
-  <?dbhtml filename="measurements-of-angles/index.html" ?>
+  <?dbhtml filename="measurement-of-angles/index.html" ?>
   <d:title>Measurement of Angles</d:title>
   <d:sect1>
     <d:title>Angles and their Measures</d:title>
     <d:para>
-      The word trignometry comes from Greek(τριγωνομετρία) which includes two
+      The word Trigonometry comes from Greek(τριγωνομετρία) which includes two
       words; τριγωνο meaning triangle and μέτρηση which means measurement.
-      The objective of studying plane trigonometry is to develop a method of
+      The objective of studying plane Trigonometry is to develop a method of
       solving plane triangles. However, as time changes everything it has
-      changed the scope of trigonometry to include polygons and circles as
-      well. A lot of concepts in this book will come from your geometry classes
+      changed the scope of Trigonometry to include polygons and circles as
+      well. A lot of concepts in this book will come from your Geometry classes
       in lower classes. It is a good idea to review the concepts which you have
       studied till now without which you are going to struggle while studying
-      trigonometry in this book.
+      Trigonometry in this book.
 
       <d:figure>
           <d:mediaobject>
@@ -58,12 +58,12 @@
     <d:para>Geometrical angles are always betweeen <math
     xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>&#xB0;</mo></math> and <math
     xmlns="http://www.w3.org/1998/Math/MathML"><mn>360</mn><mo>&#xB0;</mo></math> and negative angles have no meaning in
-    geometry. Degree of rotation is smallest amount of rotation from the direction of one side to the direction of other side.
+    Geometry. Degree of rotation is smallest amount of rotation from the direction of one side to the direction of other side.
     </d:para>
     <d:sect2>
       <d:title>Angles in Trigonometry</d:title>
       <d:para>
-        The meaning of angle in trigonometry is more general and it may be positive or negative. The initial position of the
+        The meaning of angle in Trigonometry is more general and it may be positive or negative. The initial position of the
         revolving side is called the <d:emphasis role="italic">initial side</d:emphasis> or <d:emphasis
         role="italic">arm</d:emphasis> and the final position is called <d:emphasis role="italic">terminal side</d:emphasis> or
         <d:emphasis role="italic">arm</d:emphasis>. The revolving line
@@ -73,13 +73,13 @@
         <d:title>Angles Exceeding <math
         xmlns="http://www.w3.org/1998/Math/MathML"><mn>360</mn><mo>&#xB0;</mo></math></d:title>
         <d:para>
-          In geometry, angles are limited to <math
+          In Geometry, angles are limited to <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>&#xB0;</mo></math> to <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mn>360</mn><mo>&#xB0;</mo></math>. However, when multiple revolutions are
           involved angles are more than <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mn>360</mn><mo>&#xB0;</mo></math>. For example, the revolving line starts
           from the initial position and makes <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math> complete
-          revolutions in anti-clockwise direction and also further angle <math
+          revolutions in anticlockwise direction and also further angle <math
           xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> in the same direction. We then have a certain angle
           <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>&#x3B2;</mi><mi>n</mi></msub></math> given by <math
           xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>&#x3B2;</mi><mi>n</mi></msub><mo>=</mo><mi>n</mi><mo>&#xD7;</mo><mn>360</mn><mo>&#xB0;</mo><mo>+</mo><mi>&#x3B1;</mi></math>
@@ -100,7 +100,7 @@
       <d:sect3>
         <d:title>Sign of angles</d:title>
         <d:para>
-          Angles formed by anti-clockwise rotation of the radius vector are taken as positive and angles formed by clockwise
+          Angles formed by anticlockwise rotation of the radius vector are taken as positive and angles formed by clockwise
           rotation of the radius vector are taken as negative.
         </d:para>
       </d:sect3>
@@ -122,13 +122,341 @@
           xmlns="http://www.w3.org/1998/Math/MathML"><mi>X</mi><mi>O</mi><mi>Y</mi><mo>,</mo><mi>Y</mi><mi>O</mi><mi>X</mi><mo>'</mo><mo>,</mo><mi>X</mi><mo>'</mo><mi>O</mi><mi>Y</mi><mo>'</mo></math>
           and <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>X</mi><mo>'</mo><mi>O</mi><mi>X</mi></math> are respectively
           called 1st, 2nd, 3rd and 4th quadrants. According to terminal side lying in 1st, 2nd, 3rd and 4th quadrants the angles
-          are said to be in 1st, 2nd, 3rd and 4th quadrants respectively. A quandrant angle is an angle formed if terminal side
-          coincides with one of the axes.
+          are said to be in 1st, 2nd, 3rd and 4th quadrants respectively. A <d:emphasis role="italic">quandrant angle</d:emphasis>
+          is an angle formed if terminal side coincides with one of the axes.
         </d:para>
         <d:para>
-          For any angle <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> which is not a quadrant angle
+          For any angle <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> which is not a quadrant angle and
+          when number of revolutions is zero and radius vector rotates in anticlockwise directions:
+          <d:itemizedlist>
+            <d:listitem>
+              <math
+                  xmlns="http://www.w3.org/1998/Math/MathML"><mn>0</mn><mo>&#xB0;</mo><mo>&lt;</mo><mi>&#x3B1;</mi><mo>&lt;</mo><mn>90</mn><mo>&#xB0;</mo></math>
+              if <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> lies in the first quadrant
+            </d:listitem>
+            <d:listitem>
+              <math
+                  xmlns="http://www.w3.org/1998/Math/MathML"><mn>90</mn><mo>&#xB0;</mo><mo>&lt;</mo><mi>&#x3B1;</mi><mo>&lt;</mo><mn>180</mn><mo>&#xB0;</mo></math>
+              if <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> lies in the second quadrant
+            </d:listitem>
+            <d:listitem>
+              <math
+                  xmlns="http://www.w3.org/1998/Math/MathML"><mn>180</mn><mo>&#xB0;</mo><mo>&lt;</mo><mi>&#x3B1;</mi><mo>&lt;</mo><mn>270</mn><mo>&#xB0;</mo></math>
+              if <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> lies in the third quadrant
+            </d:listitem>
+            <d:listitem>
+              <math
+                  xmlns="http://www.w3.org/1998/Math/MathML"><mn>270</mn><mo>&#xB0;</mo><mo>&lt;</mo><mi>&#x3B1;</mi><mo>&lt;</mo><mn>360</mn><mo>&#xB0;</mo></math>
+              if <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3B1;</mi></math> lies in the fourth quadrant
+            </d:listitem>
+            <d:listitem>
+              when terminal side lies on <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>O</mi><mi>Y</mi></math>, angle formed
+              <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>90</mn><mo>&#xB0;</mo></math>
+            </d:listitem>
+            <d:listitem>
+              when terminal side lies on <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>O</mi><mi>X</mi><mi>'</mi></math>, angle formed
+              <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>180</mn><mo>&#xB0;</mo></math>
+            </d:listitem>
+            <d:listitem>
+              when terminal side lies on <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>O</mi><mi>Y</mi><mi>'</mi></math>, angle formed
+              <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>270</mn><mo>&#xB0;</mo></math>
+            </d:listitem>
+            <d:listitem>
+              when terminal side lies on <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>O</mi><mi>X</mi></math>, angle formed
+              <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>360</mn><mo>&#xB0;</mo></math>
+            </d:listitem>
+          </d:itemizedlist>
         </d:para>
       </d:sect3>
     </d:sect2>
+    <d:sect2>
+      <d:title>Units of Measurement</d:title>
+      <d:para>
+        In Geometry, angles are usually measured in terms of right angles, however, that is an inconvenient system for smaller
+        angles. So we introduce different systems of measurements. There are three system of units for this:
+        <d:orderedlist>
+          <d:listitem>
+            Sexagecimal or British system
+            <d:para>
+              In British system, a right angle is divided into <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>90</mn></math>
+              equal parts called <d:emphasis role="italic">degrees</d:emphasis>.
+            </d:para>
+            <d:para>
+              Each degree is then divided into <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>60</mn></math> equal parts
+              called <d:itemizedlist>minutes</d:itemizedlist> and each minute is further is divided into <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mn>60</mn></math> parts called <d:emphasis role="italic">seconds.</d:emphasis>
+            </d:para>
+            <d:para>
+              A degree, a minute and a second are denoted by <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>&#xB0;</mo><mo>,</mo><msup><mn>1</mn><mo>''</mo></msup></math>
+              and <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>1</mn><mo>'</mo></msup></math> respectively.
+            </d:para>
+          </d:listitem>
+          <d:listitem>
+            Centesimal or French System
+            <d:para>
+              In French system, a right angle is divided into <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>100</mn></math>
+              equal parts called <d:emphasis role="italic">grades</d:emphasis>.
+            </d:para>
+            <d:para>
+              Each grade is then divided into <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1000</mn></math> equal parts
+              called <d:itemizedlist>minutes</d:itemizedlist> and each minute is further is divided into <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mn>100</mn></math> parts called <d:emphasis role="italic">seconds.</d:emphasis>
+            </d:para>
+            <d:para>
+              A degree, a minute and a second are denoted by
+              <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>1</mn><mi>g</mi></msup><mo>,</mo><msup><mn>1</mn><mo>''</mo></msup></math>
+              and <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>1</mn><mo>'</mo></msup></math> respectively.
+            </d:para>
+          </d:listitem>
+          <d:listitem>
+            Radian or Circular Measure
+            <d:para>
+              An arc equal to radius of a circle when subtends an anngle on the center then that angle is 1 radian and is denoted
+              by <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>1</mn><mi>c</mi></msup></math>. The angle made by half
+              of perimeter is <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3C0;</mi></math> radians. Also, from Geometry
+              we know that angle subtended is the ratio between length of cord and radius. This ratio is in radians. Since both
+              length or chord and radius have same unit radian is a constant.
+            </d:para>
+          </d:listitem>
+        </d:orderedlist>
+      </d:para>
+      <d:sect3>
+        <d:title>Relationship between Systems of Measurements</d:title>
+        <d:para>
+          If measure of an angle if D degrees, G grades and C radians then upon elementary manipulation we find that
+          <math
+              xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>D</mi><mn>180</mn></mfrac><mo>=</mo><mfrac><mi>G</mi><mn>200</mn></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>&#x3C0;</mi></mfrac></math>
+        </d:para>
+      </d:sect3>
+      <d:sect3>
+        <d:title>Meaning of <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3C0;</mi></math></d:title>
+        <d:para>
+          The ratio of circumference and diameter of a circle is always constant and this constant is denoted by gree letter <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3C0;</mi></math>.
+        </d:para>
+        <d:para>
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3C0;</mi></math> is an irrational number. In general, we use the
+          value of <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>22</mn><mn>7</mn></mfrac></math> but <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>355</mn><mn>113</mn></mfrac></math> is more accurate though not
+          exact. Thus, if <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi></math> be the radius of a circle and <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi></math> be the circumference then <math
+          xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>c</mi><mrow><mn>2</mn><mi>r</mi></mrow></mfrac><mo>=</mo><mi>&#x3C0;</mi></math>
+          leading circumference to be <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>c</mi><mo>=</mo><mn>2</mn><mi>&#x3C0;</mi><mi>r</mi></math>
+        </d:para>
+      </d:sect3>
+    </d:sect2>
+  </d:sect1>
+  <d:sect1>
+    <d:title>
+      Problems
+    </d:title>
+    <d:orderedlist>
+      <d:listitem>
+        Reduce <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>63</mn><mo>&#xB0;</mo><msup><mn>14</mn><mo>'</mo></msup><msup><mn>51</mn><mo>''</mo></msup></math>
+        to Centisimal measure.
+      </d:listitem>
+      <d:listitem>
+        Reduce <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>45</mn><mo>&#xB0;</mo><msup><mn>20</mn><mo>'</mo></msup><msup><mn>10</mn><mo>''</mo></msup></math>
+        to
+        <d:orderedlist>
+          <d:listitem>Centesimal measure</d:listitem>
+          <d:listitem>radian measure</d:listitem>
+        </d:orderedlist>
+      </d:listitem>
+      <d:listitem>
+        Reduce <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>94</mn><mi>g</mi></msup><msup><mn>23</mn><mo>'</mo></msup><msup><mn>27</mn><mo>''</mo></msup></math>
+        to Sxsexagecimal
+      </d:listitem>
+      <d:listitem>
+        Reduce <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>.</mo><mn>2</mn></math> radians in Sexagecimal measure
+      </d:listitem>
+    </d:orderedlist>
+    <d:orderedlist continuation="continues">
+      <d:para>
+        Express in terms of a right angle the angles
+      </d:para>
+      <d:listitem><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>60</mn><mo>&#xB0;</mo></math></d:listitem>
+      <d:listitem><math
+                      xmlns="http://www.w3.org/1998/Math/MathML"><mn>75</mn><mo>&#xB0;</mo><msup><mn>15</mn><mo>'</mo></msup></math></d:listitem>
+      <d:listitem>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mn>63</mn><mo>&#xB0;</mo><msup><mn>17</mn><mo>'</mo></msup><msup><mn>25</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>130</mn><mo>&#xB0;</mo><msup><mn>30</mn><mo>'</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><mn>210</mn><mo>&#xB0;</mo><msup><mn>30</mn><mo>'</mo></msup><msup><mn>30</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>370</mn><mo>&#xB0;</mo><msup><mn>20</mn><mo>'</mo></msup><msup><mn>48</mn><mo>''</mo></msup></math>
+      </d:listitem>
+    </d:orderedlist>
+    <d:orderedlist continuation="continues">
+      <d:para>
+        Express in grades, minutes and seconds the angles
+      </d:para>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>30</mn><mo>&#xB0;</mo></math>
+      </d:listitem>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>81</mn><mo>&#xB0;</mo></math>
+      </d:listitem>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>138</mn><mo>&#xB0;</mo><msup><mn>30</mn><mo>'</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>35</mn><mo>&#xB0;</mo><msup><mn>47</mn><mo>'</mo></msup><msup><mn>15</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>235</mn><mo>&#xB0;</mo><msup><mn>12</mn><mo>'</mo></msup><msup><mn>36</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>475</mn><mo>&#xB0;</mo><msup><mn>13</mn><mo>'</mo></msup><msup><mn>48</mn><mo>''</mo></msup></math>
+      </d:listitem>
+    </d:orderedlist>
+    <d:orderedlist continuation="continues">
+      <d:para>
+        Express in terms of right angles, and also in degrees, minutes and seconds the angles
+      </d:para>
+      <d:listitem><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>120</mn><mi>g</mi></msup></math></d:listitem>
+      <d:listitem>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>120</mn><mi>g</mi></msup><msup><mn>35</mn><mo>'</mo></msup><msup><mn>24</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>39</mn><mi>g</mi></msup><msup><mn>45</mn><mo>'</mo></msup><msup><mn>36</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>255</mn><mi>g</mi></msup><msup><mn>8</mn><mo>'</mo></msup><msup><mn>9</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        <math
+            xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>759</mn><mi>g</mi></msup><msup><mn>0</mn><mo>'</mo></msup><msup><mn>5</mn><mo>''</mo></msup></math>
+      </d:listitem>
+      <d:listitem>
+        Reduce <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>55</mn><mo>&#xB0;</mo></msup><msup><mn>12</mn><mo>'</mo></msup><msup><mn>36</mn><mo>''</mo></msup></math>
+        to degrees, minutes and seconds.
+      </d:listitem>
+      <d:listitem>
+        Reduce <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>18</mn><mo>&#xB0;</mo></msup><msup><mn>33</mn><mo>'</mo></msup><msup><mn>45</mn><mo>''</mo></msup></math>
+        to circular measure.
+      </d:listitem>
+      <d:listitem>
+        Reduce <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>195</mn><mi>g</mi></msup><msup><mn>35</mn><mo>'</mo></msup><msup><mn>24</mn><mo>''</mo></msup></math>
+        to sexagecimal measure.
+      </d:listitem>
+      <d:listitem>
+        How many degrees, minutes and seconds are respectively passed over in <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>11</mn><mfrac><mn>1</mn><mn>9</mn></mfrac></math> minutes by the hour and
+        minute hand of a watch.
+      </d:listitem>
+      <d:listitem>
+        The number of degrees in one acute angle of a right-angled triangle is equal to the number of grades in the other; express
+        both angles in degrees.
+      </d:listitem>
+      <d:listitem>
+        Prove that the number of Sexagecimal minutes in any angle is to the number of Centisimal minutes in the same angle as <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>27</mn><mo>:</mo><mn>50</mn></math>
+      </d:listitem>
+      <d:listitem>
+        Divide <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>44</mn><mo>&#xB0;</mo></msup><msup><mn>8</mn><mo>'</mo></msup></math>
+        into two parts such that the number of Sexagecimal seconds in one part may be equal to number of Centisimal seconds in the
+        other part.
+      </d:listitem>
+      <d:listitem>
+        The angles of a triangle are in the ratio of <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn><mo>:</mo><mn>4</mn><mo>:</mo><mn>5</mn></math>, find the smallest
+        angle in degrees and greatest angle in radians.
+      </d:listitem>
+      <d:listitem>
+        Find the angle between the hour hand and the minute hand in circular measure at half past four.
+      </d:listitem>
+      <d:listitem>
+        If <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo>,</mo><mi>q</mi></math> and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi></math> denote the grade measure, degree measure and the radian
+        measure of the same angle, prove that
+        <d:orderedlist>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>p</mi><mn>10</mn></mfrac><mo>=</mo><mfrac><mi>q</mi><mn>9</mn></mfrac><mo>=</mo><mfrac><mrow><mn>20</mn><mi>r</mi></mrow><mi>&#x3C0;</mi></mfrac></math>
+          </d:listitem>
+          <d:listitem>
+            <math
+                xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mo>-</mo><mi>q</mi><mo>=</mo><mfrac><mrow><mn>20</mn><mi>r</mi></mrow><mi>&#x3C0;</mi></mfrac></math>
+          </d:listitem>
+        </d:orderedlist>
+      </d:listitem>
+      <d:listitem>
+        Two angles of a triangle are <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>72</mn><mo>&#xB0;</mo></msup><msup><mn>53</mn><mo>'</mo></msup><msup><mn>51</mn><mo>''</mo></msup></math>
+        and <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>41</mn><mo>&#xB0;</mo></msup><msup><mn>22</mn><mo>'</mo></msup><msup><mn>50</mn><mo>''</mo></msup></math>
+        respectively. Find the third angle in radians.
+      </d:listitem>
+      <d:listitem>
+        The angles of triangle are in A.P. and the number of radians in the greatest angle is to the number of degrees in the least
+        one as <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3C0;</mi><mo>:</mo><mn>60</mn></math>; find the angles in degrees.
+      </d:listitem>
+      <d:listitem>
+        The angles of a triangle are in A.P. and the number of grades in the least is to the number of radians in the greatest is
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>40</mn><mo>:</mo><mi>&#x3C0;</mi></math>; find the angles in degrees.
+      </d:listitem>
+      <d:listitem>
+        Three angles are in G.P. The number of grades in the greatest angle is to the number of circular units in the least is
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>800</mn><mo>:</mo><mi>&#x3C0;</mi></math>; and the sum of angles is
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>126</mn><mo>&#xB0;</mo></math>. Find the angles in grades.
+      </d:listitem>
+      <d:listitem>
+        Find the angle between the hour-hand and minute-hand in circular measure at <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn></math>  o'clock.
+      </d:listitem>
+      <d:listitem>
+        Express in Sexagecimal system the angle between the minute-hand and hour-hand of a clock at quarter to twelve.
+      </d:listitem>
+      <d:listitem>
+        The diamter of a wheel is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>28</mn></math> cm; through what distance
+        does its center move during one rotation of wheel along the ground?
+      </d:listitem>
+      <d:listitem>
+        What must be the radius of a circular running path, round which an athlete must run <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>5</mn></math> time in order to describe <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>1760</mn></math> meters?
+      </d:listitem>
+      <d:listitem>
+        The wheel of a railway carriage is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>90</mn></math> cm and it makes
+        <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn></math> revolutions per second; how fast is the train going?
+      </d:listitem>
+      <d:listitem>
+        A mill sail whose length is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>540</mn></math> cm makes <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>10</mn></math> revolutions per minute. What distance does its end travel in
+        one hour?
+      </d:listitem>
+      <d:listitem>
+        Assuming that the earth describes in one year a circle, or <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mn>149,700,000</mn></math> km. radius, whose center is the sun, how many miles
+        does earth travel in a year?
+      </d:listitem>
+      <d:listitem>
+        The radius of a carriage wheel is <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>50</mn></math> cm, and in <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>9</mn></mfrac></math>th of a second it turns through <math
+        xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>80</mn><mo>&#xB0;</mo></msup></math> about its center, which is fixed;
+        how many km. does a point on the rim of the wheel travel in one hour?
+      </d:listitem>
+      <d:listitem>
+        Express in terms of three systems of angular measurements the magnitude of an angle of a regular decagon.
+      </d:listitem>
+    </d:orderedlist>
   </d:sect1>
 </d:chapter>
